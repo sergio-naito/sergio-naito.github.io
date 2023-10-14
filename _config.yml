@@ -1,11 +1,5 @@
 title: Meu Blog
-<!--
-  Long Haul
--->  
 description: Descrição do meu Blogo
-<!--
-Long Form Jekyll theme built with SASS
--->
 url: https://long-haul.netlify.app
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -34,9 +28,6 @@ social:
     twitter: brianmaierjr
     facebook: brianmaierjr
     email: sernaito@gmail.com 
-    <!--
-    brimaidesigns@gmail.com
-    -->
     linkedin: brianmaierjr
 
 google_analytics: "UA-58263416-1"

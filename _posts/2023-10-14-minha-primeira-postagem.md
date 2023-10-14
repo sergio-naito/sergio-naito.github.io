@@ -21,7 +21,8 @@ Até agora, 24 horas depois de ter conhecido o Jekyll, ainda nem sei onde está 
 Tenho seguido o Principio do Pareto 80/20, que diz respeito que utilizando 20% do conhecimento dá para executar 80% das atividades.
 </p>
 <p> 
-Se por algum motivo, ocorrer algum problema inesperado, por motivo de digitação, ou qualquer motivo, nós podemos utilizar o recurso da Engenharia Reversa, usando o ChatGPT ou o Bard, para descrever o passo a passoo da lógica do programa e mostrar onde está o erro e com a devida solução.
+Se por algum motivo, ocorrer algum problema inesperado, por erro de digitação, ou qualquer erro de sintaxe, nós podemos utilizar o recurso da Engenharia Reversa, usando o ChatGPT ou o Bard, informando o programa fonte para que o ChatGPT ou Bard e explique o passo a passo da lógica do programa, informe o que cada linha está fazendo e no final, que mostre onde está o erro e com a devida solução. 
+Ou seja, o ChatGPT ou o Bard, é uma ferramenta muito prática, para detecção de problemas com facilidade e rapidez. Tem que fazer as perguntas certas, para que recebamos as respostas corretas. 
 </p>
 
 

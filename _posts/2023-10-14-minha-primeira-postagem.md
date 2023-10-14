@@ -6,9 +6,10 @@ date:   2023-10-14
 
 <p class="intro"><span class="dropcap">E</span>sta é a minha primeira postagem, como Cientista de Dados, no sentido de criar um Blog Pessoal para colocar todo o aprendizando que estou tendo, a partir de 01.026.2023, sobre Inteligência Artificial, utilizando a Linguagem Python, Aprendizado de Máquina (Machine Learnig) e Aprendizado Profundo (Deep Learning). Utilizando o script Python, no Google Colab e no VSCode. Para manter as versões dos arquivos, é usado o Git, o Git DesKtop e também o próprio VSCode.
 <p>  
-E o maior e melhor beneficio deste Blog é ser gratuíto, aqui pelo GitHub Page, utilizando a página "<seu-usuário>.github.io". 
+E o maior e melhor beneficio deste Blog é ser gratuíto, aqui pelo GitHub Page, utilizando a página "seu-usuario.github.io". 
 </p>
-<p>Não tenho muito conhecimento de GitHub Pages, nem de actions, nem de Ruby, nem de Jekyll, mas para a geração desta postagem foi necessário fazer as alterações e adaptações pontualmente. 
+<p>
+Não tenho muito conhecimento de GitHub Pages, nem de actions, nem de Ruby, nem de Jekyll, nem de .markdown (ou .md), mas para a geração desta postagem foi necessário fazer as alterações e adaptações pontualmente. 
 </p>
 <p>
 Como o meu objetivo é gerar um Blog, com os títulos, com as datas e com os conteúdos, consegui o meu intento,  somente utilizei as partes do programa que faz a criação de Blog.

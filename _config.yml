@@ -16,7 +16,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-    - title: Home
+    - title: Início
       url: /index.html
     - title: Sobre
       url: /about
@@ -28,7 +28,7 @@ social:
     twitter: brianmaierjr
     facebook: brianmaierjr
     email: sernaito@gmail.com 
-    linkedin: brianmaierjr
+    linkedin: sergio-naito-156ab893
 
 google_analytics: "UA-58263416-1"
 

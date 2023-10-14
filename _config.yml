@@ -1,5 +1,5 @@
 title: Blog de Sergio Naito - Primeiro Blog
-description: Este é o meu primeiro blog baseado no blog de Lang Haul.
+description: Este e o meu primeiro blog baseado no blog de Lang Haul.
 url: https://long-haul.netlify.app
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -24,7 +24,7 @@ navigation:
       url: /contact
 
 social:
-    github: sbrianmaierjr
+    github: brianmaierjr
     twitter: @brianmaierjr
     facebook: brianmaierjr
     email: sernaito@gmail.com 

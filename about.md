@@ -6,10 +6,11 @@ title: Sobre Sergio Naito
 <div class="post">
 	<h1 class="pageTitle">Sobre Sergio Naito</h1>
 	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
-	<p class="intro">Long Haul está fazendo a transição de carreira para Cientista de Dados, através do Programa CDPRO (Cientista de Dados Profissiona) do Professor Eduardo da Ciência dos Dados.
+	<p class="intro">Sergio Naito está fazendo a transição de carreira para Cientista de Dados, através do Programa CDPRO (Cientista de Dados Profissional) do Professor Eduardo da Ciência dos Dados.
 	
 	Este Blog está baseado no Long Haul Themes, <a href="http://jekyllrb.com">Jekyll</a> Theme. 
 	Pode ser usado ou customizado para os nosso própios sites.</p>
+
 	<p>Este blog foi criado para fazer as postagens pessoais sobre o aprendizado de Inteligência Artificial, utilizando Machine Learning e Deep Learnig.</p>
 	<h2>Features</h2>
 	<ul>

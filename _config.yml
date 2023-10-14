@@ -18,13 +18,13 @@ paginate: 5
 navigation:
     - title: Home
       url: /index.html
-    - title: About
+    - title: Sobre
       url: /about
-    - title: Contact
+    - title: Contato
       url: /contact
 
 social:
-    github: brianmaierjr
+    github: sergio-naito
     twitter: brianmaierjr
     facebook: brianmaierjr
     email: sernaito@gmail.com 
@@ -33,4 +33,4 @@ social:
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: sergio-naito

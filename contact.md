@@ -10,7 +10,7 @@ title: Contato Sergio Naito
     <p>O formulário é fornecidao pela <a href="http://formspree.io/">Formspree.</a> Siga as instruções no site deles para configurar o formulário para uso.</p>
     <p>Se você tiver dúvidas sobre o tema, sinta-se à vontade para <a href="mailto:sernaito@gmail.com">me enviar um e-mail</a> ou criar uma correção no <a href="https://github.com/sergio-naito/sergio-naito">GitHub</a>. Aproveite!</p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="http://formspree.io/sernaito@gmail.com" method="POST">
     <label for="name">Nome</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Endereço de e-mail</label>

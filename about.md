@@ -11,7 +11,7 @@ title: Sobre Sergio Naito
 	Este Blog está baseado no Long Haul Themes, <a href="http://jekyllrb.com">Jekyll</a> Theme. 
 	Pode ser usado ou customizado para os nosso própios sites.</p>
 
-	<p>Este blog foi criado para fazer as postagens pessoais sobre o aprendizado de Inteligência Artificial, utilizando Machine Learning e Deep Learnig.</p>
+	<p>Este blog foi criado para fazer as postagens pessoais sobre o aprendizado de Inteligência Artificial, utilizando Machine Learning e Deep Learning.</p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with the <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a> plugin</li>

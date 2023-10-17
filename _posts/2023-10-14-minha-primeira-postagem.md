@@ -5,6 +5,7 @@ date:   2023-10-14
 ---
 
 <p class="intro"><span class="dropcap">E</span>sta é a minha primeira postagem, como Cientista de Dados, no sentido de criar um Blog Pessoal para colocar todo o aprendizando que estou tendo, a partir de 01.06.2023, sobre Inteligência Artificial, utilizando a Linguagem Python, Aprendizado de Máquina (Machine Learnig) e Aprendizado Profundo (Deep Learning). Utilizando o script Python, no Google Colab e no VSCode. Para manter as versões dos arquivos, é usado o Git, o Git DesKtop e também o próprio VSCode.
+</p>
 <p>  
 E o maior e melhor beneficio deste Blog é ser gratuíto, aqui pelo GitHub Page, utilizando a página "seu-usuario.github.io". 
 </p>

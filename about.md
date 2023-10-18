@@ -17,7 +17,7 @@ title: Sobre Sergio Naito
 		<li>Construído com o plugin <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a></li>
   		<li><a href="http://responsive-nav.com/">Menu de Navegação Responsivo</a></li>
   		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">Feed XML para Leitores RSS</a></li>
-  		<li>5 Loops com trecho na página inicial/</li>
+  		<li>5 Loops com trecho na página inicial</li>
   		<li>Navegação com postagem Anterior / Próxima</li>
 		<li>Tempo Estimado de leituras para postagens</li>
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Capitular</a> nas postagens</li>

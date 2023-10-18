@@ -12,7 +12,7 @@ title: Sobre Sergio Naito
 	Pode ser usado ou customizado para os nosso própios sites.</p>
 
 	<p>Este blog foi criado para fazer as postagens pessoais sobre o aprendizado de Inteligência Artificial, utilizando Machine Learning e Deep Learning.</p>
-	<h2>Features</h2>
+	<h2>Características</h2>
 	<ul>
 		<li>Construído com o plugin <a href="https://github.com/jekyll/jekyll-sass-converter">Jekyll SASS convertor</a></li>
   		<li><a href="http://responsive-nav.com/">Menu de Navegação Responsivo</a></li>
